@@ -1,16 +1,21 @@
-## Hi there 👋
-
-<!--
-**bhavaneeshwarim583224205008-afk/bhavaneeshwarim583224205008-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#  hi👋 i am bhavaneeshwari 
+ ##### i am from sivagangai😎
+ #### About Me🤩
+ ##### ●Highly motivated individual˚.🎀༘⋆currently pursuing BTECH Information Technology in NPRCETִֶָ. ..𓂃 ࣪ ִֶָ🦋་༘࿐
+ 
+ #### **short term goal**
+ ##### ●TO complete my bachelor degree with highest CGPA👩🏽‍💻
+ #### **long term goal**
+ ##### ●To get a job in good reputed company💻 with highest LPA
+ ### Hobby
+ ###### ●To listen music🎧
+ ###### ●Reading books📚
+ #### Technical Skills
+ ###### ●Programming 
+ ###### ●Good communication🗣️
+ ###### ●problem solving
+ #### Languages Known
+ ###### ●English
+ ###### ●Tamil
+ ###### ●Hindi
+ # -bhavaneeshwarim583224205008-afk
